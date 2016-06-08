@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:58.459261
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:47
 #+TITLE: 金剛經註疏
 #+PROPERTY: CBETA_ID X24n0456
 #+PROPERTY: ID KR6c0046
